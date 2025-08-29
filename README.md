@@ -118,6 +118,13 @@ python train.py --data data.yaml --epochs 150 --imgsz 832 --batch 8 --model yolo
 python evaluate.py --model runs/detect/dental_detection/weights/best.pt --data data.yaml
 ```
 
+### RESULTS
 
+#### sample dental tooth detection image
+![](sample_results_images/sample_2.png)
+
+#### sample dental tooth detection image
+
+![](sample_results_images/sample_4.png)
 
 
